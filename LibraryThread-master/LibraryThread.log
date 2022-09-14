@@ -1,0 +1,45 @@
+14/Sept./2022 14:32:26,734- LibraryThreadRun: Application started
+14/Sept./2022 14:32:26,812- BookLibrary: Add books by free ready to library...
+14/Sept./2022 14:32:26,812- Book: Create new book: name = Book0, byReadyRoom = false, timeReady = 1655
+14/Sept./2022 14:32:26,828- Book: Create new book: name = Book1, byReadyRoom = false, timeReady = 1726
+14/Sept./2022 14:32:26,828- Book: Create new book: name = Book2, byReadyRoom = false, timeReady = 1927
+14/Sept./2022 14:32:26,828- Book: Create new book: name = Book3, byReadyRoom = false, timeReady = 1904
+14/Sept./2022 14:32:26,828- Book: Create new book: name = Book4, byReadyRoom = false, timeReady = 588
+14/Sept./2022 14:32:26,828- BookLibrary: Add books by ready room to library...
+14/Sept./2022 14:32:26,828- Book: Create new book: name = Book5, byReadyRoom = true, timeReady = 27
+14/Sept./2022 14:32:26,828- Book: Create new book: name = Book6, byReadyRoom = true, timeReady = 1168
+14/Sept./2022 14:32:26,828- Book: Create new book: name = Book7, byReadyRoom = true, timeReady = 1929
+14/Sept./2022 14:32:26,828- Book: Create new book: name = Book8, byReadyRoom = true, timeReady = 1692
+14/Sept./2022 14:32:26,828- Book: Create new book: name = Book9, byReadyRoom = true, timeReady = 1687
+14/Sept./2022 14:32:26,828- BookLibrary: Add peoples readers to library...
+14/Sept./2022 14:32:26,828- PeopleReader: Create new people reader: name = People0
+14/Sept./2022 14:32:26,828- PeopleReader: Create new people reader: name = People1
+14/Sept./2022 14:32:26,828- PeopleReader: Create new people reader: name = People2
+14/Sept./2022 14:32:26,828- PeopleReader: Create new people reader: name = People3
+14/Sept./2022 14:32:26,828- PeopleReader: Create new people reader: name = People4
+14/Sept./2022 14:32:26,828- PeopleReader: Create new people reader: name = People5
+14/Sept./2022 14:32:26,828- PeopleReader: Create new people reader: name = People6
+14/Sept./2022 14:32:26,828- PeopleReader: Create new people reader: name = People7
+14/Sept./2022 14:32:26,828- PeopleReader: Create new people reader: name = People8
+14/Sept./2022 14:32:26,828- PeopleReader: Create new people reader: name = People9
+14/Sept./2022 14:32:26,828- PeopleReader: People0 won't come to library
+14/Sept./2022 14:32:26,828- PeopleReader: People1 won't come to library
+14/Sept./2022 14:32:26,828- PeopleReader: People2 won't come to library
+14/Sept./2022 14:32:26,828- PeopleReader: People3 won't come to library
+14/Sept./2022 14:32:26,828- PeopleReader: People5 won't come to library
+14/Sept./2022 14:32:26,828- PeopleReader: People6 won't come to library
+14/Sept./2022 14:32:26,886- PeopleReader: People9 came to library
+14/Sept./2022 14:32:26,886- PeopleReader: People9 chose the book = Book7
+14/Sept./2022 14:32:26,887- Book: People9: Book7 start is reading...
+14/Sept./2022 14:32:26,910- PeopleReader: People4 came to library
+14/Sept./2022 14:32:26,910- PeopleReader: People4 chose the book = Book9
+14/Sept./2022 14:32:26,911- Book: People4: Book9 start is reading...
+14/Sept./2022 14:32:26,917- PeopleReader: People8 came to library
+14/Sept./2022 14:32:26,917- PeopleReader: People8 left library
+14/Sept./2022 14:32:26,942- PeopleReader: People7 came to library
+14/Sept./2022 14:32:26,942- PeopleReader: People7 left library
+14/Sept./2022 14:32:27,379- Book: People4: Book9 stop reading...
+14/Sept./2022 14:32:27,732- PeopleReader: People4 left library
+14/Sept./2022 14:32:28,723- Book: People9: Book7 stop reading...
+14/Sept./2022 14:32:29,113- PeopleReader: People9 left library
+14/Sept./2022 14:32:30,879- LibraryThreadRun: Application stopped
